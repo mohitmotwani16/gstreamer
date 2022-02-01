@@ -1,0 +1,3 @@
+/home/mohit_rock/C++_Assignment/vertigo/build/CMakeFiles/rebuild_cache.dir
+/home/mohit_rock/C++_Assignment/vertigo/build/CMakeFiles/edit_cache.dir
+/home/mohit_rock/C++_Assignment/vertigo/build/CMakeFiles/vertigo.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/vertigo.dir/main.cpp.o  -o vertigo  -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 
